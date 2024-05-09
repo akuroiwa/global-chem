@@ -1,5 +1,5 @@
 
-class Mango(object):
+class MangoPhytocompounds(object):
     
   def __init__(self):
       
@@ -27,14 +27,8 @@ class Mango(object):
         'glutamic acid': 'C(CC(=O)O)[C@@H](C(=O)O)N',
         'aspartic acid': 'C([C@@H](C(=O)O)N)C(=O)O',
         'alanine': 'C[C@@H](C(=O)O)N',
-        'arginine': 'C(C[C@@H](C(=O)O)N)CN=C(N)N',
         'histidine': 'C1=C(NC=N1)C[C@@H](C(=O)O)N',
-        'palmitic acid': 'CCCCCCCCCCCCCCCC(=O)O',
         'stearic acid ': 'CCCCCCCCCCCCCCCCCC(=O)O',
-        'arachidic acid': 'CCCCCCCCCCCCCCCCCCCC(=O)O',
-        'lignoceric acid': 'CCCCCCCCCCCCCCCCCCCCCCCC(=O)O',
-        'oleic acid': 'CCCCCCCC/C=C\CCCCCCCC(=O)O',
-        'linoleic acid': 'CCCCC/C=C\C/C=C\CCCCCCCC(=O)O',
         'alpha-Linoleic acid': '',
         'myristic acid': 'CCCCCCCCCCCCCC(=O)O',
         'palmitic acid': 'CCCCCCCCCCCCCCCC(=O)O',
@@ -111,8 +105,8 @@ class Mango(object):
   @staticmethod
   def get_smarts():
 
-    smarts = {
-            
-        }
-    
-    return smarts
+      smarts = {
+              
+          }
+      
+      return smarts

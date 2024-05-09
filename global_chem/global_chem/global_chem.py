@@ -116,14 +116,12 @@ from global_chem.food.color_additives.fda_list_seven import FDAListSeven
 # Food/Fruits/Mango
 
 
-from global_chem.food.fruits.mango.constituents_of_mango import Mango
-from global_chem.food.fruits.mango.fattyacids import MangoFattyAcids
-from global_chem.food.fruits.mango.flavonoids import MangoFlavonoids
-from global_chem.food.fruits.mango.phenolicacids import MangoPhenolicAcids
-from global_chem.food.fruits.mango.vitamins import MangoVitamins
+from global_chem.food.fruits.mango.mango_phyto_compounds import MangoPhytocompounds
+from global_chem.food.fruits.mango.mango_phenolic_acids import MangoPhenolicAcids
+from global_chem.food.fruits.mango.mango_vitamins import MangoVitamins
+from global_chem.food.fruits.mango.mango_fatty_acids import MangoFattyAcids
 from global_chem.food.fruits.mango.mango_amino_acids import MangoAminoAcids
-
-
+from global_chem.food.fruits.mango.mango_flavonoids import MangoFlavonoids
 
 # Narcotics
 
@@ -487,7 +485,7 @@ class GlobalChem(object):
         'lanthipeptides': LanthiPeptides,                                                # Prabin Baral & Suliman Sharif
         'alternative_jet_fuels': AlternativeJetFuels,                                    # Suliman Sharif
         'common_regex_patterns': CommonRegexPatterns,                                    # Chris Burke & Suliman Sharif
-        'mango_phytocompounds': Mango,                                                   # Damilola Bodun & Sevien Schulhofff
+        'mango_phytocompounds': MangoPhytocompounds,                                     # Damilola Bodun & Sevien Schulhofff
         'mango_amino_acids': MangoAminoAcids,                                            # Damilola Bodun & Sevien Schulhofff
         'mango_phenolic_acids': MangoPhenolicAcids,                                      # Damilola Bodun & Sevien Schulhofff
         'mango_fatty_acids': MangoFattyAcids,                                            # Damilola Bodun & Sevien Schulhofff
