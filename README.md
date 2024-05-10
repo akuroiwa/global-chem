@@ -26,8 +26,8 @@ Overview
 
 #### - Package Statistics
 
-| [![Downloads](https://pepy.tech/badge/global-chem)](https://pepy.tech/project/global-chem) |![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sulstice.global-chem) | [![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2FSulstice%2Fglobal-chem)](https://jessemillar.com/r/man-hours) | ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)|
-|-|-|-|-|
+| [![Downloads](https://pepy.tech/badge/global-chem)](https://pepy.tech/project/global-chem) | ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)|
+|-|-|
 
 Installation
 ============
