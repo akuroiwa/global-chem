@@ -4,8 +4,6 @@ Global Chem is a public dictionary of common chemical lists using the Common Che
 
 For more documentation, please navigate to our Github Wiki.
 
-#### Links
-
 - Demo https://colab.research.google.com/drive/1HaDvAYpaX0_2Eqx1NSl5uJTRkE_0na-L?usp=sharing
 - Join Our Community: https://discord.gg/xygRVwNZP8
 
@@ -13,9 +11,9 @@ For more documentation, please navigate to our Github Wiki.
 <img width="800" alt="Screen Shot 2022-07-16 at 5 29 41 PM" src="https://user-images.githubusercontent.com/11812946/179372564-c286b115-af14-4ad8-a37f-0a216297b6c1.png">
 </p>
 
-Just with no dependencies, intialize the class and there you go! All the common and rare groups of the world
-at your disposal.
-
+![Downloads](https://pepy.tech/badge/global-chem)](https://pepy.tech/project/global-chem)
+![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
+ 
 Overview
 ========
 
@@ -24,21 +22,13 @@ Overview
 |[![saythanks](https://img.shields.io/badge/RDKit-100%25-fg49b4.svg)](https://www.rdkit.org/)| [![saythanks](https://img.shields.io/badge/PartialSMILES-85.7%25-fg49b4.svg)](https://github.com/baoilleach/partialsmiles) | [![saythanks](https://img.shields.io/badge/DeepSMILES-99.25%25-lm89b5.svg)](https://github.com/baoilleach/deepsmiles) | [![saythanks](https://img.shields.io/badge/SELFIES-100%25-lm89b5.svg)](https://github.com/aspuru-guzik-group/selfies) | [![saythanks](https://img.shields.io/badge/MolVS-98.5%25-lm89b5.svg)](https://github.com/mcs07/MolVS) | [![saythanks](https://img.shields.io/badge/PySMILES-99.8%25-fg49b4.svg)](https://github.com/pckroon/pysmiles) |
 |-|-|-|-|-|-|
 
-#### - Package Statistics
-
-| [![Downloads](https://pepy.tech/badge/global-chem)](https://pepy.tech/project/global-chem) | ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)|
-|-|-|
-
 Installation
 ============
-
-GlobalChem is going to be distribute via PyPi and as the tree and it's extensions grows we can expand it to other pieces of software
-making it accessible to all regardless of what you use. Alternatively, you could have a glance at the source code and copy/paste
-it yourself.
 
 ```bash
 
 pip install global-chem
+pip install global-chem[cheminformatics]
 
 ```
 
