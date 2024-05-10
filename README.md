@@ -179,6 +179,11 @@ Please follow the node contribution guidelines if you would like to elect your o
 | Mango Vitamins                      | 10           | Maldonado-Celis, Maria Elena, et al. “Chemical Composition of Mango (Mangifera Indica L.) Fruit: Nutritional and Phytochemical Compounds.” Frontiers in Plant Science, vol. 10, Oct. 2019, p. 1073.                                                                                                                  |
 | Mango Flavonoids                    | 11           | Maldonado-Celis, Maria Elena, et al. “Chemical Composition of Mango (Mangifera Indica L.) Fruit: Nutritional and Phytochemical Compounds.” Frontiers in Plant Science, vol. 10, Oct. 2019, p. 1073.                                                                                                                  |
 
+Contributions
+=============
+
+![Alt](https://repobeats.axiom.co/api/embed/a5562010add209dab03a109cd9feaef6234dd8ca.svg "Repobeats analytics image")
+
 Licensing
 =========
 
