@@ -1,6 +1,6 @@
 global-chem
 numpy
-rdkit-pypi
+rdkit
 pandas
 requests
 
